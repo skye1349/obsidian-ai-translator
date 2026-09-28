@@ -4,6 +4,14 @@ Comprenez le vocabulaire, traduisez des passages et gardez des notes bilingues d
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## Voir le plugin en action
+
+Chaque GIF présente une fonction, avec des instructions en anglais, les clics mis en évidence et les raccourcis clavier.
+
+[**Voir les 12 démonstrations**](docs/demos.md) · [Guide vidéo complet](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+
+![Voir le plugin en action](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
 ## Ce que vous pouvez faire
 
 - Traduire mots et passages dans Markdown ou les PDF à texte sélectionnable.

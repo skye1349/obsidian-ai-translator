@@ -4,6 +4,14 @@ Verstehe Wörter im Kontext, übersetze Abschnitte und speichere zweisprachige N
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## So funktioniert es
+
+Jedes GIF zeigt eine Funktion mit englischen Anweisungen, hervorgehobenen Mausklicks und Tastenkürzeln.
+
+[**Alle 12 Funktionsdemos**](docs/demos.md) · [Vollständige Videoanleitung](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+
+![So funktioniert es](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
 ## Was du damit machen kannst
 
 - Wörter und Abschnitte in Markdown oder auswählbarem PDF-Text übersetzen.

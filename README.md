@@ -4,6 +4,14 @@ Understand words in context, translate passages and keep bilingual notes inside 
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## See it in action
+
+Short GIFs show one feature at a time, with English instructions, highlighted mouse clicks and keyboard shortcuts.
+
+[**All 12 feature demos**](docs/demos.md) · [Full video guide](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+
+![See it in action](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
 ## What you can do
 
 - Translate selected words and passages in Markdown or selectable PDF text.

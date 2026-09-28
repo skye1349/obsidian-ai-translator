@@ -4,6 +4,14 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## 使い方を動画で見る
+
+各 GIF で一つの機能を紹介します。英語の手順、クリック位置の強調、キーボード操作の表示が付いています。
+
+[**12 個の機能デモを見る**](docs/demos.md) · [動画ガイド全編](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+
+![使い方を動画で見る](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
 ## できること
 
 - Markdownや選択可能なPDFの単語・文章を翻訳。
