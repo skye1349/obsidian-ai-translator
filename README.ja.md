@@ -6,25 +6,15 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 
 ## 使い方を動画で見る
 
-各 GIF で一つの機能を紹介します。英語の手順、クリック位置の強調、キーボード操作の表示が付いています。
+Web Viewer の翻訳を含む全13機能を、1本の完全版ガイドにまとめました。機能別の操作手順と録画は機能一覧をご覧ください。
 
-[**13 個の機能デモを見る**](docs/demos.md) · [動画ガイド全編](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[![全機能のデモ](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.gif)](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4)
 
-![使い方を動画で見る](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
-
-## Web Viewer のテキストを直接翻訳
-
-デスクトップ版のコアプラグイン **Web viewer** を有効にし、ウェブページで **Cmd/Ctrl** を押しながら単語や文章を選択します。既存の自動翻訳と言語設定が適用されます。修飾キーの要件は設定で解除できます。最初の翻訳には Google が使われる場合があります。**Refine translation** で設定した AI を利用できます。
-
-![Web Viewer のテキストを直接翻訳](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-ページ本文に対応します。編集欄やクロスオリジン iframe 内の選択には対応していません。
+[**完全版動画ガイド**](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [機能一覧](docs/demos.md)
 
 ## できること
 
-- Markdownや選択可能なPDFの単語・文章を翻訳。
+- Markdown、選択可能な PDF テキスト、Web Viewer のウェブページで単語や文章を翻訳。
 - 文脈に沿った語句の説明を確認。
 - 原文を残し、その下に訳文を挿入。
 - 単一・複数のMarkdownを末尾追加または対訳形式で翻訳。

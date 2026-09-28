@@ -6,25 +6,15 @@ Comprenez le vocabulaire, traduisez des passages et gardez des notes bilingues d
 
 ## Voir le plugin en action
 
-Chaque GIF présente une fonction, avec des instructions en anglais, les clics mis en évidence et les raccourcis clavier.
+Un guide complet présente les 13 fonctionnalités, y compris la traduction dans Web Viewer. Les instructions et vidéos individuelles sont regroupées dans le répertoire des fonctionnalités.
 
-[**Voir les 13 démonstrations**](docs/demos.md) · [Guide vidéo complet](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[![Démonstration complète](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.gif)](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4)
 
-![Voir le plugin en action](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
-
-## Traduire du texte dans Web Viewer
-
-Activez le module principal **Web viewer** sur ordinateur, ouvrez une page et sélectionnez du texte en maintenant **Cmd/Ctrl**. Vos réglages de sélection automatique et de langue sont conservés. Vous pouvez désactiver cette touche dans les paramètres. La traduction initiale peut utiliser Google ; **Refine translation** utilise votre service IA configuré.
-
-![Traduire du texte dans Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-Le document principal est pris en charge, sauf les champs modifiables et les iframes provenant d’une autre origine.
+[**Guide vidéo complet**](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [Répertoire des fonctionnalités](docs/demos.md)
 
 ## Ce que vous pouvez faire
 
-- Traduire mots et passages dans Markdown ou les PDF à texte sélectionnable.
+- Traduisez des mots et des passages dans Markdown, le texte sélectionnable des PDF ou les pages de Web Viewer.
 - Comprendre le vocabulaire dans son contexte.
 - Conserver l’original et insérer la traduction en dessous.
 - Traduire un ou plusieurs Markdown, en ajout final ou en alternance.

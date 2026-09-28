@@ -6,25 +6,15 @@
 
 ## 功能演示
 
-每个 GIF 演示一个功能，包含英文操作步骤、鼠标点击高亮和键盘快捷键提示。
+下面是一份涵盖全部 13 项功能的完整演示，已包含 Web Viewer 网页翻译。各功能的具体步骤和单独录屏统一放在功能目录中。
 
-[**查看全部 13 个功能演示**](docs/demos.md) · [完整视频教程](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[![完整功能演示](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.gif)](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4)
 
-![功能演示](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
-
-## 直接翻译 Web Viewer 网页文字
-
-启用桌面版核心插件 **Web viewer**，打开网页，按住 **⌘/Ctrl** 选择单词或段落，即可显示翻译弹窗。沿用现有自动划词与语言设置，也可在设置中关闭修饰键要求。初步在线翻译可能使用 Google；点击 **Refine translation** 可使用你配置的 AI 后端润色。
-
-![直接翻译 Web Viewer 网页文字](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-支持网页主文档选词，暂不支持输入框、编辑区或跨域 iframe 中的选词。
+[**完整视频教程**](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [功能目录](docs/demos.md)
 
 ## 能做什么
 
-- 翻译 Markdown 或可选文字 PDF 中的单词和段落。
+- 翻译 Markdown、可选文字 PDF 或 Web Viewer 网页中的单词和段落。
 - 结合上下文理解词义，而不只是查看字面翻译。
 - 保留原文，在下方插入译文，制作双语笔记。
 - 翻译单篇或多篇 Markdown，选择文末追加或原文译文交错排列。

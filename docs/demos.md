@@ -1,14 +1,13 @@
 # AI Translation Assistant: feature demos
 
-[Watch the full video](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.en.srt)
+[Watch the full video](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.en.srt)
 
-Each GIF covers one feature. Read the two steps, then follow the highlighted control. **Cmd/Ctrl** means Command on macOS and Ctrl on Windows/Linux. The GIFs are silent, loop automatically, and shorten AI waiting time.
+The complete guide covers all 13 features, including Web Viewer. Each GIF below covers one feature. Read the two steps, then follow the highlighted control. **Cmd/Ctrl** means Command on macOS and Ctrl on Windows/Linux. The GIFs are silent, loop automatically, and shorten AI waiting time.
 
 For automatic selection popups, hold Command/Ctrl while selecting. You can disable that requirement in settings, as in the recording. PDF text must be selectable; scanned pages need OCR first.
 
 | Feature | Demonstration |
 | --- | --- |
-| Translate directly in Web Viewer | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif) |
 | Translate selected text | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif) |
 | Understand a word in context | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/explain-word.gif) |
 | Refine a translation with AI | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/refine-translation.gif) |
@@ -18,24 +17,11 @@ For automatic selection popups, hold Command/Ctrl while selecting. You can disab
 | Translate a whole Markdown note | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-note.gif) |
 | Translate multiple Markdown files | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/batch-translate.gif) |
 | Translate selectable PDF text | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-pdf.gif) |
+| Translate directly in Web Viewer | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif) |
 | Read selected text aloud | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/read-aloud.gif) |
 | Choose where excerpts are saved | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/excerpt-settings.gif) |
 | Set up languages and AI | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-setup.gif) |
 
-<details open>
-<summary>Translate directly in Web Viewer</summary>
-
-Enable the desktop **Web viewer** core plugin, open a webpage, then hold **Cmd/Ctrl** while selecting a word or passage. The translation popup uses your existing automatic-selection and language settings. Disable the modifier requirement if you prefer selection alone. The initial online translation can use Google; use **Refine translation** for your configured AI backend.
-
-![Translate directly in Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[Watch MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-Selections are supported in the main webpage, excluding editable fields and cross-origin frames.
-
-The Web Viewer demo records the released plugin in Obsidian using original sample material and actual translation results. It is silent; waiting time is shortened.
-
-</details>
 
 <details>
 <summary>Translate selected text</summary>
@@ -124,6 +110,21 @@ The Web Viewer demo records the released plugin in Obsidian using original sampl
 2. If the modifier requirement is off, simply select. Scans need OCR first.
 
 ![Translate selectable PDF text](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-pdf.gif)
+
+</details>
+
+<details>
+<summary>Translate directly in Web Viewer</summary>
+
+Enable the desktop **Web viewer** core plugin, open a webpage, then hold **Cmd/Ctrl** while selecting a word or passage. The translation popup uses your existing automatic-selection and language settings. Disable the modifier requirement if you prefer selection alone. The initial online translation can use Google; use **Refine translation** for your configured AI backend.
+
+![Translate directly in Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[Watch MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+Selections are supported in the main webpage, excluding editable fields and cross-origin frames.
+
+The Web Viewer demo records the released plugin in Obsidian using original sample material and actual translation results. It is silent; waiting time is shortened.
 
 </details>
 

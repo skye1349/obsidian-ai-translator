@@ -6,25 +6,15 @@ Entiende vocabulario, traduce pasajes y guarda notas bilingües dentro de Obsidi
 
 ## Mira cómo funciona
 
-Cada GIF muestra una función con instrucciones en inglés, clics resaltados y atajos de teclado.
+Una guía completa reúne las 13 funciones, incluida la traducción en Web Viewer. Las instrucciones y grabaciones individuales están en el índice de funciones.
 
-[**Ver las 13 demostraciones**](docs/demos.md) · [Guía completa en vídeo](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[![Demostración completa](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.gif)](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4)
 
-![Mira cómo funciona](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
-
-## Traducir texto en Web Viewer
-
-Activa el complemento principal **Web viewer** en escritorio, abre una página y selecciona texto manteniendo **Cmd/Ctrl**. Se aplican tus ajustes de selección automática e idiomas. Puedes desactivar el requisito de la tecla modificadora. La traducción inicial puede usar Google; **Refine translation** utiliza tu servicio de IA configurado.
-
-![Traducir texto en Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-Compatible con el documento principal, excepto campos editables e iframes de otro origen.
+[**Guía completa en vídeo**](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [Índice de funciones](docs/demos.md)
 
 ## Qué puedes hacer
 
-- Traducir palabras y pasajes en Markdown o PDF con texto seleccionable.
+- Traduce palabras y pasajes en Markdown, texto seleccionable de PDF o páginas de Web Viewer.
 - Entender vocabulario según el contexto.
 - Conservar el original e insertar la traducción debajo.
 - Traducir uno o varios archivos Markdown, al final o intercalando textos.

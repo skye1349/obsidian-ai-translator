@@ -6,25 +6,15 @@ Verstehe Wörter im Kontext, übersetze Abschnitte und speichere zweisprachige N
 
 ## So funktioniert es
 
-Jedes GIF zeigt eine Funktion mit englischen Anweisungen, hervorgehobenen Mausklicks und Tastenkürzeln.
+Eine vollständige Anleitung zeigt alle 13 Funktionen, einschließlich der Übersetzung in Web Viewer. Einzelne Anleitungen und Aufnahmen findest du im Funktionsverzeichnis.
 
-[**Alle 13 Funktionsdemos**](docs/demos.md) · [Vollständige Videoanleitung](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[![Vollständige Funktionsübersicht](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.gif)](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4)
 
-![So funktioniert es](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
-
-## Webseiten direkt in Web Viewer übersetzen
-
-Aktiviere das Desktop-Kernplugin **Web viewer**, öffne eine Webseite und markiere Text mit gedrückter **Cmd/Strg**-Taste. Die vorhandenen Einstellungen für automatische Auswahlübersetzung und Sprachen gelten weiterhin. Die Zusatztaste lässt sich in den Einstellungen abschalten. Die erste Übersetzung kann Google nutzen; **Refine translation** verwendet deinen konfigurierten KI-Dienst.
-
-![Webseiten direkt in Web Viewer übersetzen](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
-
-[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
-
-Unterstützt den Hauptinhalt der Seite, ausgenommen Eingabefelder und herkunftsübergreifende iframes.
+[**Vollständige Videoanleitung**](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/ai-translator-complete-guide.mp4) · [Funktionsverzeichnis](docs/demos.md)
 
 ## Was du damit machen kannst
 
-- Wörter und Abschnitte in Markdown oder auswählbarem PDF-Text übersetzen.
+- Übersetze Wörter und Abschnitte in Markdown, auswählbarem PDF-Text oder Webseiten in Web Viewer.
 - Wortbedeutungen im Zusammenhang verstehen.
 - Originaltext behalten und Übersetzung darunter einfügen.
 - Einzelne oder mehrere Markdown-Dateien angehängt oder abwechselnd übersetzen.
