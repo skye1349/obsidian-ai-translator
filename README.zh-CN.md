@@ -1,4 +1,4 @@
-# AI Translator
+# AI Translation Assistant
 
 在 Obsidian 内理解词义、翻译段落并保存双语笔记。支持 Markdown 和可选择文本的 PDF，不必每次把内容复制到另一个聊天应用。
 
@@ -26,7 +26,7 @@
 需要桌面版 Obsidian 1.13.7 或更新版本，不支持手机和平板。
 
 1. 打开 Obsidian 的**设置 → 第三方插件**，如有提示先启用第三方插件。
-2. 点击**浏览**，搜索 **AI Translator**。
+2. 点击**浏览**，搜索 **AI Translation Assistant**。
 3. 点击**安装**，然后**启用**。
 4. 打开插件设置，选择语言和 AI 服务。
 

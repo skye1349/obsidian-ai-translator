@@ -1,4 +1,4 @@
-# AI Translator
+# AI Translation Assistant
 
 Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを保存します。Markdownと文字を選択できるPDFに対応します。
 
@@ -26,7 +26,7 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 デスクトップ版 Obsidian 1.13.7 以降が必要です。モバイルには対応していません。
 
 1. Obsidian の**設定 → コミュニティプラグイン**を開き、必要なら有効にします。
-2. **閲覧（Browse）**で **AI Translator** を検索します。
+2. **閲覧（Browse）**で **AI Translation Assistant** を検索します。
 3. **インストール（Install）**、**有効化（Enable）**の順に選びます。
 4. プラグイン設定で言語とAIサービスを選びます。
 

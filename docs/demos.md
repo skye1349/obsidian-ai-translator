@@ -1,4 +1,4 @@
-# AI Translator: feature demos
+# AI Translation Assistant: feature demos
 
 [Watch the full video](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.en.srt)
 
@@ -124,7 +124,7 @@ For automatic selection popups, hold Command/Ctrl while selecting. You can disab
 <details>
 <summary>Choose where excerpts are saved</summary>
 
-1. Open Settings > AI Translator > Excerpt file.
+1. Open Settings > AI Translation Assistant > Excerpt file.
 2. Choose a note path and whether to include the translation.
 
 ![Choose where excerpts are saved](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/excerpt-settings.gif)

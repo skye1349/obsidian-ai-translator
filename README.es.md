@@ -1,4 +1,4 @@
-# AI Translator
+# AI Translation Assistant
 
 Entiende vocabulario, traduce pasajes y guarda notas bilingües dentro de Obsidian. Funciona con Markdown y texto seleccionable de PDF.
 
@@ -26,7 +26,7 @@ Cada GIF muestra una función con instrucciones en inglés, clics resaltados y a
 Requiere Obsidian de escritorio 1.13.7 o posterior. No admite dispositivos móviles.
 
 1. Abre **Ajustes → Plugins de la comunidad** y actívalos si se solicita.
-2. Pulsa **Explorar (Browse)** y busca **AI Translator**.
+2. Pulsa **Explorar (Browse)** y busca **AI Translation Assistant**.
 3. Pulsa **Instalar (Install)** y después **Activar (Enable)**.
 4. Abre los ajustes del plugin para elegir idioma y servicio de IA.
 

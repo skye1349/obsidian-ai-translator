@@ -1,4 +1,4 @@
-# AI Translator
+# AI Translation Assistant
 
 Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언어 노트를 만드세요. Markdown과 텍스트 선택이 가능한 PDF를 지원합니다.
 
@@ -26,7 +26,7 @@ Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언�
 데스크톱 Obsidian 1.13.7 이상이 필요합니다. 모바일은 지원하지 않습니다.
 
 1. Obsidian **설정 → 커뮤니티 플러그인**을 열고 필요한 경우 활성화합니다.
-2. **탐색(Browse)**에서 **AI Translator**을 검색합니다.
+2. **탐색(Browse)**에서 **AI Translation Assistant**을 검색합니다.
 3. **설치(Install)** 후 **활성화(Enable)**를 누릅니다.
 4. 플러그인 설정에서 언어와 AI 서비스를 선택합니다.
 

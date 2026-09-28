@@ -1,4 +1,4 @@
-# AI Translator
+# AI Translation Assistant
 
 Understand words in context, translate passages and keep bilingual notes inside Obsidian. Work with Markdown and selectable PDF text without copying everything into a separate chat app.
 
@@ -26,7 +26,7 @@ Short GIFs show one feature at a time, with English instructions, highlighted mo
 Desktop Obsidian 1.13.7 or later is required. Mobile is not supported.
 
 1. Open **Settings → Community plugins** in Obsidian and enable community plugins if prompted.
-2. Click **Browse** and search for **AI Translator**.
+2. Click **Browse** and search for **AI Translation Assistant**.
 3. Click **Install**, then **Enable**.
 4. Open the plugin’s settings to choose your language and AI service.
 
