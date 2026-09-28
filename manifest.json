@@ -1,0 +1,10 @@
+{
+  "id": "ai-translator",
+  "name": "AI Translator",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.7",
+  "description": "Translate selected text and documents, explain vocabulary, and save bilingual notes.",
+  "author": "Taoye",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/skye1349"
+}
