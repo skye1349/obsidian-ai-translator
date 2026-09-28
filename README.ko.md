@@ -8,9 +8,19 @@ Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언�
 
 각 GIF는 한 가지 기능을 보여 줍니다. 영어 안내, 마우스 클릭 강조, 키보드 단축키 표시가 포함되어 있습니다.
 
-[**12개 기능 데모 보기**](docs/demos.md) · [전체 동영상 가이드](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[**13개 기능 데모 보기**](docs/demos.md) · [전체 동영상 가이드](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
 
 ![사용 방법 살펴보기](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
+## Web Viewer에서 웹페이지 직접 번역
+
+데스크톱 코어 플러그인 **Web viewer**를 켜고 웹페이지에서 **Cmd/Ctrl**을 누른 채 단어나 문장을 선택하세요. 기존 자동 번역 및 언어 설정이 적용됩니다. 설정에서 보조 키 조건을 끌 수 있습니다. 첫 번역은 Google을 사용할 수 있으며 **Refine translation**은 설정한 AI를 사용합니다.
+
+![Web Viewer에서 웹페이지 직접 번역](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+웹페이지 본문을 지원합니다. 입력란, 편집 영역 및 교차 출처 iframe은 지원하지 않습니다.
 
 ## 주요 기능
 

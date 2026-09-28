@@ -278,3 +278,9 @@
 .contextual-ai-reader-refine-btn:hover {
   opacity: 0.85;
 }
+
+/* Web Viewer owns playback; the connected panel only needs controls and transcript. */
+.youtube-reader-shell.youtube-reader-web-transcript {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1fr);
+}

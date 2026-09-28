@@ -8,9 +8,19 @@ Comprenez le vocabulaire, traduisez des passages et gardez des notes bilingues d
 
 Chaque GIF présente une fonction, avec des instructions en anglais, les clics mis en évidence et les raccourcis clavier.
 
-[**Voir les 12 démonstrations**](docs/demos.md) · [Guide vidéo complet](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[**Voir les 13 démonstrations**](docs/demos.md) · [Guide vidéo complet](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
 
 ![Voir le plugin en action](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
+## Traduire du texte dans Web Viewer
+
+Activez le module principal **Web viewer** sur ordinateur, ouvrez une page et sélectionnez du texte en maintenant **Cmd/Ctrl**. Vos réglages de sélection automatique et de langue sont conservés. Vous pouvez désactiver cette touche dans les paramètres. La traduction initiale peut utiliser Google ; **Refine translation** utilise votre service IA configuré.
+
+![Traduire du texte dans Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+Le document principal est pris en charge, sauf les champs modifiables et les iframes provenant d’une autre origine.
 
 ## Ce que vous pouvez faire
 

@@ -8,6 +8,7 @@ For automatic selection popups, hold Command/Ctrl while selecting. You can disab
 
 | Feature | Demonstration |
 | --- | --- |
+| Translate directly in Web Viewer | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif) |
 | Translate selected text | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif) |
 | Understand a word in context | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/explain-word.gif) |
 | Refine a translation with AI | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/refine-translation.gif) |
@@ -20,6 +21,21 @@ For automatic selection popups, hold Command/Ctrl while selecting. You can disab
 | Read selected text aloud | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/read-aloud.gif) |
 | Choose where excerpts are saved | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/excerpt-settings.gif) |
 | Set up languages and AI | [Open GIF](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-setup.gif) |
+
+<details open>
+<summary>Translate directly in Web Viewer</summary>
+
+Enable the desktop **Web viewer** core plugin, open a webpage, then hold **Cmd/Ctrl** while selecting a word or passage. The translation popup uses your existing automatic-selection and language settings. Disable the modifier requirement if you prefer selection alone. The initial online translation can use Google; use **Refine translation** for your configured AI backend.
+
+![Translate directly in Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[Watch MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+Selections are supported in the main webpage, excluding editable fields and cross-origin frames.
+
+The Web Viewer demo records the released plugin in Obsidian using original sample material and actual translation results. It is silent; waiting time is shortened.
+
+</details>
 
 <details>
 <summary>Translate selected text</summary>

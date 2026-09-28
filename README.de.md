@@ -8,9 +8,19 @@ Verstehe Wörter im Kontext, übersetze Abschnitte und speichere zweisprachige N
 
 Jedes GIF zeigt eine Funktion mit englischen Anweisungen, hervorgehobenen Mausklicks und Tastenkürzeln.
 
-[**Alle 12 Funktionsdemos**](docs/demos.md) · [Vollständige Videoanleitung](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[**Alle 13 Funktionsdemos**](docs/demos.md) · [Vollständige Videoanleitung](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
 
 ![So funktioniert es](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
+## Webseiten direkt in Web Viewer übersetzen
+
+Aktiviere das Desktop-Kernplugin **Web viewer**, öffne eine Webseite und markiere Text mit gedrückter **Cmd/Strg**-Taste. Die vorhandenen Einstellungen für automatische Auswahlübersetzung und Sprachen gelten weiterhin. Die Zusatztaste lässt sich in den Einstellungen abschalten. Die erste Übersetzung kann Google nutzen; **Refine translation** verwendet deinen konfigurierten KI-Dienst.
+
+![Webseiten direkt in Web Viewer übersetzen](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+Unterstützt den Hauptinhalt der Seite, ausgenommen Eingabefelder und herkunftsübergreifende iframes.
 
 ## Was du damit machen kannst
 

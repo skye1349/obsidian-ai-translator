@@ -8,9 +8,19 @@ Understand words in context, translate passages and keep bilingual notes inside 
 
 Short GIFs show one feature at a time, with English instructions, highlighted mouse clicks and keyboard shortcuts.
 
-[**All 12 feature demos**](docs/demos.md) · [Full video guide](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
+[**All 13 feature demos**](docs/demos.md) · [Full video guide](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/ai-translator-guide.mp4)
 
 ![See it in action](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.0.0/translate-passage.gif)
+
+## Translate directly in Web Viewer
+
+Enable the desktop **Web viewer** core plugin, open a webpage, then hold **Cmd/Ctrl** while selecting a word or passage. The translation popup uses your existing automatic-selection and language settings. Disable the modifier requirement if you prefer selection alone. The initial online translation can use Google; use **Refine translation** for your configured AI backend.
+
+![Translate directly in Web Viewer](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.gif)
+
+[MP4](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.mp4) · [English subtitles](https://github.com/skye1349/obsidian-ai-translator/releases/download/1.1.0/web-viewer-selection.en.srt)
+
+Selections are supported in the main webpage, excluding editable fields and cross-origin frames.
 
 ## What you can do
 
