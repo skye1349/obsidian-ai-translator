@@ -1,6 +1,6 @@
 {
   "name": "ai-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate selected text and documents, explain vocabulary, and save bilingual notes.",
   "main": "main.js",
   "scripts": {

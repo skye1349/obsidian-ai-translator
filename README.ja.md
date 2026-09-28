@@ -41,7 +41,7 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 
 本プラグインの **AI backend** でサービスを選びます。OpenAI / Anthropic はご自身の API キーを入力してください。利用料金はサービス側で発生します。ローカルの **Codex / Claude Code** は先にインストールしてログインします。見つからない場合は **Codex command / Claude command** にパスを指定してください。ローカルCLIでも内容がAIサービスへ送られる場合があります。
 
-通常は **Automatic · Economy** を使用します。対応する軽量モデルを選び、選択を1時間キャッシュし、高価格モデルへ自動変更しません。固定モデルや独自APIアドレスには **Manual** を選びます。API接続は **Test API connection** で確認できます。両プラグインの設定は独立しています。
+通常は **Automatic · Economy** を使用します。対応する軽量モデルを選び、選択を1時間キャッシュし、高価格モデルへ自動変更しません。固定モデルや独自APIアドレスには **Manual** を選びます。API接続は **Test API connection** で確認できます。
 
 ## ノートに残す
 
@@ -55,7 +55,7 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 
 APIキーは保管庫内のプラグイン設定に保存されます。保管庫の共有・同期時は設定を保護してください。AIエラー時はサービス、認証、モデルを確認します。残高・通信エラーではモデルを自動変更しません。
 
-動画には [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai) を使用できます。旧プラグインを置き換えたり設定を取り込んだりしません。翻訳プラグインを併用する場合は片方の自動ポップアップを無効にしてください。
+動画には [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai) を使用できます。
 
 ## サポート
 

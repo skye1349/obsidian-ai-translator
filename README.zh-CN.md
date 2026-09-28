@@ -41,7 +41,7 @@
 
 打开本插件设置，在 **AI backend** 中选择服务。使用 OpenAI 或 Anthropic 时填写自己的 API key，费用由对应服务商收取。使用本地 **Codex** 或 **Claude Code** 时，先安装并登录对应程序；若无法自动找到，填写 **Codex command** 或 **Claude command** 路径。本地运行这些程序仍可能把内容发送给其 AI 服务商。
 
-建议保留 **Automatic · Economy / 自动选择 · 经济型**，优先使用支持的轻量模型，缓存选择一小时，不自动升级旗舰模型。需要固定型号时切换 **Manual / 手动指定**；自定义 API 地址也请使用手动模式。API 用户可以点击 **Test API connection** 测试连接。两个插件的设置相互独立。
+建议保留 **Automatic · Economy / 自动选择 · 经济型**，优先使用支持的轻量模型，缓存选择一小时，不自动升级旗舰模型。需要固定型号时切换 **Manual / 手动指定**；自定义 API 地址也请使用手动模式。API 用户可以点击 **Test API connection** 测试连接。
 
 ## 把结果整理成笔记
 
@@ -57,7 +57,7 @@
 
 API key 保存在笔记库内的插件设置中，共享或同步笔记库时请保护这些设置。AI 无法使用时，检查服务商、登录/API key 和模型；额度不足或网络故障不会触发自动换模型。
 
-视频播放、字幕和截图笔记请使用 [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai)。两个插件独立使用。本插件不会替换旧 Read and Watch with AI，也不会自动导入其设置。若同时启用两个翻译插件，请关闭其中一个的选词弹窗，避免重复响应。
+视频播放、字幕和截图笔记请使用 [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai)。
 
 ## 获取帮助
 

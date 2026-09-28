@@ -41,7 +41,7 @@ Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언�
 
 플러그인 설정의 **AI backend**에서 서비스를 고릅니다. OpenAI 또는 Anthropic은 본인의 API 키를 입력하며 사용료는 해당 업체에서 청구합니다. 로컬 **Codex / Claude Code**는 먼저 설치하고 로그인하세요. 찾지 못하면 **Codex command / Claude command** 경로를 지정하세요. 로컬 CLI도 내용을 AI 서비스로 전송할 수 있습니다.
 
-기본 **Automatic · Economy**는 지원되는 경량 모델을 선택하고 한 시간 캐시하며 고가 모델로 자동 변경하지 않습니다. 특정 모델 또는 사용자 지정 API 주소는 **Manual**을 사용하세요. API는 **Test API connection**으로 확인할 수 있습니다. 두 플러그인의 설정은 독립적입니다.
+기본 **Automatic · Economy**는 지원되는 경량 모델을 선택하고 한 시간 캐시하며 고가 모델로 자동 변경하지 않습니다. 특정 모델 또는 사용자 지정 API 주소는 **Manual**을 사용하세요. API는 **Test API connection**으로 확인할 수 있습니다.
 
 ## 노트로 저장
 
@@ -55,7 +55,7 @@ Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언�
 
 API 키는 보관함 안의 플러그인 설정에 저장됩니다. 보관함 공유·동기화 시 설정을 보호하세요. AI 오류가 나면 서비스, 로그인/키, 모델을 확인하세요. 할당량과 네트워크 오류는 모델 변경을 유발하지 않습니다.
 
-영상에는 [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai)를 사용하세요. 기존 플러그인을 교체하거나 설정을 가져오지 않습니다. 번역 플러그인을 함께 쓰면 한쪽 자동 팝업을 끄세요.
+영상에는 [Video Player (AI integrated)](https://github.com/skye1349/obsidian-video-player-ai)를 사용하세요.
 
 ## 도움말
 
