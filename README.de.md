@@ -4,13 +4,23 @@ Verstehe Wörter im Kontext, übersetze Abschnitte und speichere zweisprachige N
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## Was du damit machen kannst
+
+- Wörter und Abschnitte in Markdown oder auswählbarem PDF-Text übersetzen.
+- Wortbedeutungen im Zusammenhang verstehen.
+- Originaltext behalten und Übersetzung darunter einfügen.
+- Einzelne oder mehrere Markdown-Dateien angehängt oder abwechselnd übersetzen.
+- Auszüge und Übersetzungen in einer gewählten Notiz sammeln.
+- Text mit einstellbarer Sprache und Geschwindigkeit vorlesen lassen.
+
 ## Installation
 
 Benötigt Obsidian für Desktop ab Version 1.13.7. Mobilgeräte werden nicht unterstützt.
 
-Die Prüfung im Community-Verzeichnis steht noch aus. Verwende bis zur Freigabe die manuelle Installation.
-
-Lade **main.js**, **manifest.json** und **styles.css** aus der [neuesten Version](https://github.com/skye1349/obsidian-ai-translator/releases/latest) herunter und lege sie unter `<vault>/.obsidian/plugins/ai-translator/` ab. Starte Obsidian neu und aktiviere **AI Translator** unter **Einstellungen → Community-Erweiterungen**. Nach der Freigabe kannst du **AI Translator** auch über Browse suchen und installieren.
+1. Öffne **Einstellungen → Community-Erweiterungen** und aktiviere sie bei Bedarf.
+2. Klicke auf **Durchsuchen (Browse)** und suche **AI Translator**.
+3. Klicke auf **Installieren (Install)** und dann **Aktivieren (Enable)**.
+4. Wähle Sprache und KI-Dienst in den Plugin-Einstellungen.
 
 ## Erste Übersetzung
 
@@ -43,6 +53,6 @@ Für Videos nutze [Video Player (AI integrated)](https://github.com/skye1349/obs
 
 Melde Probleme in [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues) mit Version und Fehlermeldung, aber ohne API-Schlüssel oder private Notizen.
 
-Ausgewählte lokale Videos können außerhalb des Vaults liegen. Lokale KI-Anbindungen lesen den CLI-Modellkatalog und nutzen die vorhandene Anmeldung im Benutzerverzeichnis. Das Plugin installiert diese Werkzeuge nicht.
+Lokale KI-Anbindungen lesen den CLI-Modellkatalog und nutzen die vorhandene Anmeldung im Benutzerverzeichnis. Das Plugin installiert diese Werkzeuge nicht.
 
 [MIT License](LICENSE) · © 2026 Taoye

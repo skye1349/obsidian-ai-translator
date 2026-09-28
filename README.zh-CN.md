@@ -4,13 +4,23 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## 能做什么
+
+- 翻译 Markdown 或可选文字 PDF 中的单词和段落。
+- 结合上下文理解词义，而不只是查看字面翻译。
+- 保留原文，在下方插入译文，制作双语笔记。
+- 翻译单篇或多篇 Markdown，选择文末追加或原文译文交错排列。
+- 把选中内容及译文收集到指定摘录笔记。
+- 朗读选中文字，并调整语音语言和速度。
+
 ## 安装
 
 需要桌面版 Obsidian 1.13.7 或更新版本，不支持手机和平板。
 
-社区插件目录正在等待审核。安装按钮开放前，请按下面的方法手动安装。
-
-从[最新版本](https://github.com/skye1349/obsidian-ai-translator/releases/latest)下载 **main.js**、**manifest.json** 和 **styles.css**。在笔记库中创建 `<笔记库>/.obsidian/plugins/ai-translator/`，放入这三个文件，重启 Obsidian，然后在**设置 → 第三方插件**中启用 **AI Translator**。目录审核通过后，也可以在「浏览」中搜索 **AI Translator**，安装并启用。
+1. 打开 Obsidian 的**设置 → 第三方插件**，如有提示先启用第三方插件。
+2. 点击**浏览**，搜索 **AI Translator**。
+3. 点击**安装**，然后**启用**。
+4. 打开插件设置，选择语言和 AI 服务。
 
 ## 翻译第一段文字
 
@@ -45,6 +55,6 @@ API key 保存在笔记库内的插件设置中，共享或同步笔记库时请
 
 请到 [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues)反馈，附上插件版本和错误信息，不要上传 API key 或私人笔记。
 
-你选择的本地视频可以位于笔记库之外。本地 AI 集成也会读取用户目录中的 CLI 模型目录，并使用已有登录。插件不会自行安装这些工具。
+本地 AI 集成也会读取用户目录中的 CLI 模型目录，并使用已有登录。插件不会自行安装这些工具。
 
 [MIT License](LICENSE) · © 2026 Taoye

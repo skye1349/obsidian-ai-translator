@@ -4,13 +4,23 @@ Obsidian内で語句の意味を調べ、文章を翻訳して対訳ノートを
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## できること
+
+- Markdownや選択可能なPDFの単語・文章を翻訳。
+- 文脈に沿った語句の説明を確認。
+- 原文を残し、その下に訳文を挿入。
+- 単一・複数のMarkdownを末尾追加または対訳形式で翻訳。
+- 抜粋と訳文を指定したノートに収集。
+- 言語と速度を調整して選択文を読み上げ。
+
 ## インストール
 
 デスクトップ版 Obsidian 1.13.7 以降が必要です。モバイルには対応していません。
 
-コミュニティ一覧の審査待ちです。インストールボタンが利用できるまでは手動で導入してください。
-
-[最新リリース](https://github.com/skye1349/obsidian-ai-translator/releases/latest)から **main.js**、**manifest.json**、**styles.css** を取得し、`<vault>/.obsidian/plugins/ai-translator/` に置きます。Obsidian を再起動し、**設定 → コミュニティプラグイン**で **AI Translator** を有効化してください。公開承認後は Browse で名前を検索してインストールできます。
+1. Obsidian の**設定 → コミュニティプラグイン**を開き、必要なら有効にします。
+2. **閲覧（Browse）**で **AI Translator** を検索します。
+3. **インストール（Install）**、**有効化（Enable）**の順に選びます。
+4. プラグイン設定で言語とAIサービスを選びます。
 
 ## 最初の翻訳
 
@@ -43,6 +53,6 @@ APIキーは保管庫内のプラグイン設定に保存されます。保管�
 
 [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues)にバージョンとエラーを報告してください。APIキーや非公開ノートは添付しないでください。
 
-選択したローカル動画は保管庫の外にある場合があります。ローカルAI連携はユーザーディレクトリのCLIモデル情報と既存ログインを使用します。ツールの自動インストールは行いません。
+ローカルAI連携はユーザーディレクトリのCLIモデル情報と既存ログインを使用します。ツールの自動インストールは行いません。
 
 [MIT License](LICENSE) · © 2026 Taoye

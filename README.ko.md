@@ -4,13 +4,23 @@ Obsidian 안에서 단어 뜻을 이해하고 문장을 번역하여 이중 언�
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## 주요 기능
+
+- Markdown과 선택 가능한 PDF 텍스트의 단어와 문장을 번역합니다.
+- 문맥에 맞는 어휘 설명을 확인합니다.
+- 원문을 유지하고 아래에 번역을 넣습니다.
+- Markdown 한 개 또는 여러 개를 끝에 추가하거나 교차 배치해 번역합니다.
+- 발췌와 번역을 원하는 노트에 모읍니다.
+- 언어와 속도를 조정해 선택한 텍스트를 읽습니다.
+
 ## 설치
 
 데스크톱 Obsidian 1.13.7 이상이 필요합니다. 모바일은 지원하지 않습니다.
 
-커뮤니티 목록 심사를 기다리고 있습니다. 설치 버튼이 열리기 전에는 수동으로 설치하세요.
-
-[최신 릴리스](https://github.com/skye1349/obsidian-ai-translator/releases/latest)에서 **main.js**, **manifest.json**, **styles.css**를 받아 `<vault>/.obsidian/plugins/ai-translator/`에 넣습니다. Obsidian을 재시작하고 **설정 → 커뮤니티 플러그인**에서 **AI Translator**을 활성화하세요. 승인 후에는 Browse에서 이름을 검색해 설치할 수 있습니다.
+1. Obsidian **설정 → 커뮤니티 플러그인**을 열고 필요한 경우 활성화합니다.
+2. **탐색(Browse)**에서 **AI Translator**을 검색합니다.
+3. **설치(Install)** 후 **활성화(Enable)**를 누릅니다.
+4. 플러그인 설정에서 언어와 AI 서비스를 선택합니다.
 
 ## 첫 번역
 
@@ -43,6 +53,6 @@ API 키는 보관함 안의 플러그인 설정에 저장됩니다. 보관함 �
 
 [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues)에 버전과 오류를 남겨 주세요. API 키나 개인 노트는 올리지 마세요.
 
-선택한 로컬 영상은 보관함 밖에 있을 수 있습니다. 로컬 AI 연동은 사용자 폴더의 CLI 모델 정보와 기존 로그인을 사용합니다. 도구를 자동 설치하지 않습니다.
+로컬 AI 연동은 사용자 폴더의 CLI 모델 정보와 기존 로그인을 사용합니다. 도구를 자동 설치하지 않습니다.
 
 [MIT License](LICENSE) · © 2026 Taoye

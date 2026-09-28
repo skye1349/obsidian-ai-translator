@@ -4,13 +4,23 @@ Entiende vocabulario, traduce pasajes y guarda notas bilingües dentro de Obsidi
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## Qué puedes hacer
+
+- Traducir palabras y pasajes en Markdown o PDF con texto seleccionable.
+- Entender vocabulario según el contexto.
+- Conservar el original e insertar la traducción debajo.
+- Traducir uno o varios archivos Markdown, al final o intercalando textos.
+- Reunir extractos y traducciones en la nota que elijas.
+- Escuchar texto con idioma y velocidad ajustables.
+
 ## Instalación
 
 Requiere Obsidian de escritorio 1.13.7 o posterior. No admite dispositivos móviles.
 
-La revisión del directorio comunitario está pendiente. Mientras no aparezca el botón de instalación, instala manualmente.
-
-Descarga **main.js**, **manifest.json** y **styles.css** de la [última versión](https://github.com/skye1349/obsidian-ai-translator/releases/latest) y colócalos en `<vault>/.obsidian/plugins/ai-translator/`. Reinicia Obsidian y activa **AI Translator** en **Ajustes → Plugins de la comunidad**. Tras la aprobación, también podrás buscar **AI Translator** en Browse e instalarlo.
+1. Abre **Ajustes → Plugins de la comunidad** y actívalos si se solicita.
+2. Pulsa **Explorar (Browse)** y busca **AI Translator**.
+3. Pulsa **Instalar (Install)** y después **Activar (Enable)**.
+4. Abre los ajustes del plugin para elegir idioma y servicio de IA.
 
 ## Tu primera traducción
 
@@ -43,6 +53,6 @@ Para vídeo usa [Video Player (AI integrated)](https://github.com/skye1349/obsid
 
 Informa en [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues) con la versión y el error. No incluyas claves API ni notas privadas.
 
-Los vídeos locales elegidos pueden estar fuera de la bóveda. Las integraciones IA locales leen el catálogo CLI y usan la sesión existente del directorio de usuario. El plugin no instala esas herramientas.
+Las integraciones IA locales leen el catálogo CLI y usan la sesión existente del directorio de usuario. El plugin no instala esas herramientas.
 
 [MIT License](LICENSE) · © 2026 Taoye

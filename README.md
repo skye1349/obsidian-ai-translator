@@ -4,13 +4,23 @@ Understand words in context, translate passages and keep bilingual notes inside 
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## What you can do
+
+- Translate selected words and passages in Markdown or selectable PDF text.
+- Get vocabulary explanations that use the surrounding context.
+- Keep the original text and insert a translation underneath.
+- Translate one Markdown note or multiple notes, appended or interleaved.
+- Collect excerpts with translations in a note of your choice.
+- Listen to selected text with adjustable language and reading speed.
+
 ## Install
 
 Desktop Obsidian 1.13.7 or later is required. Mobile is not supported.
 
-Community-directory review is pending. Until the Install button is available, use the manual installation below.
-
-Download **main.js**, **manifest.json**, and **styles.css** from the [latest release](https://github.com/skye1349/obsidian-ai-translator/releases/latest). Create `<vault>/.obsidian/plugins/ai-translator/`, put the three files there, restart Obsidian, then enable **AI Translator** in **Settings → Community plugins**. When the directory listing is approved, you can instead search for **AI Translator** under **Browse**, install and enable it.
+1. Open **Settings → Community plugins** in Obsidian and enable community plugins if prompted.
+2. Click **Browse** and search for **AI Translator**.
+3. Click **Install**, then **Enable**.
+4. Open the plugin’s settings to choose your language and AI service.
 
 ## Translate your first passage
 
@@ -45,6 +55,6 @@ For YouTube/local playback, subtitles and screenshot notes, use [Video Player (A
 
 Report a problem on [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues); include the plugin version and error message, but never an API key or private notes.
 
-Local video files you choose may be outside your vault. Local AI integrations also read the CLI’s model catalog and use its existing login in your user directory. The plugin does not install these tools for you.
+Local AI integrations also read the CLI’s model catalog and use its existing login in your user directory. The plugin does not install these tools for you.
 
 [MIT License](LICENSE) · © 2026 Taoye

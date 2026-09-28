@@ -4,13 +4,23 @@ Comprenez le vocabulaire, traduisez des passages et gardez des notes bilingues d
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
 
+## Ce que vous pouvez faire
+
+- Traduire mots et passages dans Markdown ou les PDF à texte sélectionnable.
+- Comprendre le vocabulaire dans son contexte.
+- Conserver l’original et insérer la traduction en dessous.
+- Traduire un ou plusieurs Markdown, en ajout final ou en alternance.
+- Rassembler extraits et traductions dans la note de votre choix.
+- Écouter un texte avec langue et vitesse réglables.
+
 ## Installation
 
 Nécessite Obsidian pour ordinateur 1.13.7 ou ultérieur. Le mobile n’est pas pris en charge.
 
-La validation du répertoire communautaire est en attente. Utilisez l’installation manuelle tant que le bouton d’installation n’est pas disponible.
-
-Téléchargez **main.js**, **manifest.json** et **styles.css** depuis la [dernière version](https://github.com/skye1349/obsidian-ai-translator/releases/latest), puis placez-les dans `<vault>/.obsidian/plugins/ai-translator/`. Redémarrez Obsidian et activez **AI Translator** dans **Paramètres → Modules complémentaires**. Après validation, recherchez **AI Translator** dans Browse pour l’installer.
+1. Ouvrez **Paramètres → Modules complémentaires** et activez-les si nécessaire.
+2. Cliquez sur **Parcourir (Browse)** et recherchez **AI Translator**.
+3. Cliquez sur **Installer (Install)**, puis **Activer (Enable)**.
+4. Ouvrez les paramètres du module pour choisir la langue et le service IA.
 
 ## Première traduction
 
@@ -43,6 +53,6 @@ Pour les vidéos, utilisez [Video Player (AI integrated)](https://github.com/sky
 
 Signalez les problèmes dans [GitHub Issues](https://github.com/skye1349/obsidian-ai-translator/issues) avec la version et le message d’erreur, sans clé API ni note privée.
 
-Les vidéos locales choisies peuvent se trouver hors du coffre. L’intégration IA locale lit le catalogue CLI et utilise la connexion existante du dossier utilisateur. Le module n’installe pas ces outils.
+L’intégration IA locale lit le catalogue CLI et utilise la connexion existante du dossier utilisateur. Le module n’installe pas ces outils.
 
 [MIT License](LICENSE) · © 2026 Taoye
